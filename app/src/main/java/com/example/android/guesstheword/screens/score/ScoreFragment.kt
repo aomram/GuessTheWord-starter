@@ -37,7 +37,7 @@ class ScoreFragment : Fragment() {
     override fun onCreateView(
             inflater: LayoutInflater,
             container: ViewGroup?,
-            savedInstanceState: Bundle?
+             savedInstanceState: Bundle?
     ): View? {
 
         // Inflate view and obtain an instance of the binding class.
